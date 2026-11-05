@@ -53,11 +53,11 @@ com.portfolio.capitall/
 
 ## 📸 App Preview & Screenshots
 
-*(Fixed aspect ratio previews)*
+*(Uniform fixed-size previews)*
 
-| Biometric Authentication & Login | Financial Dashboard & Analytics |
-| :------------------------------: | :-----------------------------: |
-| <img src="screenshots/auth.png" width="280" alt="Auth Screen" /> | <img src="screenshots/dashboard.png" width="280" alt="Dashboard Screen" /> |
+| Splash & Biometric Auth Screen | Financial Dashboard & Analytics |
+| :----------------------------: | :-----------------------------: |
+| <img src="screenshots/auth.png" width="280" height="560" alt="Splash & Auth Screen" /> | <img src="screenshots/dashboard.png" width="280" height="560" alt="Dashboard Screen" /> |
 
 ### App Demo Video
 Watch the quick app walkthrough video here:  
