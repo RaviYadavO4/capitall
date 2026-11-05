@@ -17,11 +17,11 @@
 
 ## 🛠️ Tech Stack & Architecture
 
-- **UI Toolkit:** Jetpack Compose, Material 3, Accompanist / Custom Animations (`Crossfade`, smooth transitions)
+- **UI Toolkit:** Jetpack Compose, Material 3, Custom Animations (`Crossfade`, smooth transitions)
 - **Architecture:** Clean Architecture + MVVM (Model-View-ViewModel)
 - **Concurrency:** Kotlin Coroutines & Flow
 - **Local Database:** Room Database with DAO and Entity mapping
-- **Security:** AndroidX Biometric API
+- **Security:** AndroidX Biometric API (`BiometricPrompt`)
 - **Language:** 100% Kotlin
 
 ---
@@ -51,6 +51,20 @@ com.portfolio.capitall/
 
 ---
 
+## 📸 App Preview & Screenshots
+
+*(Fixed aspect ratio previews)*
+
+| Biometric Authentication & Login | Financial Dashboard & Analytics |
+| :------------------------------: | :-----------------------------: |
+| <img src="screenshots/auth.png" width="280" alt="Auth Screen" /> | <img src="screenshots/dashboard.png" width="280" alt="Dashboard Screen" /> |
+
+### App Demo Video
+Watch the quick app walkthrough video here:  
+👉 [Download / View Demo Video](screenshots/demo.mp4)
+
+---
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
@@ -65,25 +79,7 @@ com.portfolio.capitall/
 
 ---
 
-## 📸 App Preview & Screenshots
-
-### Dashboard
-![Capitall Dashboard](screenshots/dashboard.png)
-
-### App Demo Video
-Watch the quick app walkthrough video here:  
-👉 [Download / View Demo Video](screenshots/demo.mp4)
-
----
-
 ## 👨‍💻 Author
 
 Built with passion as part of Android Developer Portfolio.  
 GitHub: [RaviYadavO4](https://github.com/RaviYadavO4)
-
----
-
-## 👨‍💻 Author
-
-Built with passion as part of Android Developer Portfolio.  
-Feel free to reach out or explore other repositories!
