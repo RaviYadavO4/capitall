@@ -61,9 +61,14 @@ com.portfolio.capitall/
 | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
 | <img src="screenshots/dashboard_transactions.png" width="240" height="500" alt="Dashboard Transactions" /> | <img src="screenshots/expense_screen.png" width="240" height="500" alt="Expense Screen" /> | <img src="screenshots/income_screen.png" width="240" height="500" alt="Income Screen" /> |
 
-### App Walkthrough Video
-Watch the quick app walkthrough video here:  
-👉 [Download / View Demo Video](screenshots/demo.mp4)
+### 🎬 App Walkthrough Video Preview
+
+> [!NOTE]
+> GitHub Markdown does not support inline video player rendering (`.mp4`). You can click the preview or link below to download and watch the full app demo video.
+
+[![Capitall App Demo](screenshots/dashboard_main.png)](screenshots/demo.mp4)
+
+👉 **[Click Here to Download & Watch App Walkthrough Video (Demo.mp4)](screenshots/demo.mp4)**
 
 ---
 
