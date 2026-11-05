@@ -51,15 +51,17 @@ com.portfolio.capitall/
 
 ---
 
-## 📸 App Preview & Screenshots
+## 📸 App Screens & UI Preview
 
-*(Uniform fixed-size previews)*
+| 1. Splash Screen | 2. Auth & Biometric Screen | 3. Dashboard (Overview) |
+| :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
+| <img src="screenshots/splash.png" width="240" height="500" alt="Splash Screen" /> | <img src="screenshots/auth.png" width="240" height="500" alt="Auth Screen" /> | <img src="screenshots/dashboard_main.png" width="240" height="500" alt="Dashboard Main" /> |
 
-| Splash & Biometric Auth Screen | Financial Dashboard & Analytics |
-| :----------------------------: | :-----------------------------: |
-| <img src="screenshots/auth.png" width="280" height="560" alt="Splash & Auth Screen" /> | <img src="screenshots/dashboard.png" width="280" height="560" alt="Dashboard Screen" /> |
+| 4. Dashboard (Transactions) | 5. Expense Transaction Sheet | 6. Income Transaction Sheet |
+| :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
+| <img src="screenshots/dashboard_transactions.png" width="240" height="500" alt="Dashboard Transactions" /> | <img src="screenshots/expense_screen.png" width="240" height="500" alt="Expense Screen" /> | <img src="screenshots/income_screen.png" width="240" height="500" alt="Income Screen" /> |
 
-### App Demo Video
+### App Walkthrough Video
 Watch the quick app walkthrough video here:  
 👉 [Download / View Demo Video](screenshots/demo.mp4)
 
