@@ -55,7 +55,7 @@ com.portfolio.capitall/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/capitall.git
+   git clone https://github.com/RaviYadavO4/capitall.git
    ```
 2. **Open in Android Studio:**
    - Open Android Studio and select **Open an Existing Project**.
@@ -65,9 +65,21 @@ com.portfolio.capitall/
 
 ---
 
-## 📸 Screenshots
+## 📸 App Preview & Screenshots
 
-*(Add screenshots of your Dashboard, Biometric Auth screen, and Add Transaction bottom sheet here for portfolio showcase)*
+### Dashboard
+![Capitall Dashboard](screenshots/dashboard.png)
+
+### App Demo Video
+Watch the quick app walkthrough video here:  
+👉 [Download / View Demo Video](screenshots/demo.mp4)
+
+---
+
+## 👨‍💻 Author
+
+Built with passion as part of Android Developer Portfolio.  
+GitHub: [RaviYadavO4](https://github.com/RaviYadavO4)
 
 ---
 
